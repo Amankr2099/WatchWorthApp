@@ -1,8 +1,20 @@
-# React + Vite
+# WatchWorth
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+WatchWorth is a film review displaying app that fetches movie data from the TMDb API. It allows users to search for movies and filter them by categories like recent, popular, or top-rated. This app is built with React and styled using Bootstrap.
 
-Currently, two official plugins are available:
+## Features
+- **Search for Movies**: Find movies by name.
+- **Filter Movies**: Browse movies by categories like recent, popular, top-rated, and more.
+- **Responsive Design**: Built with Bootstrap for a clean, mobile-friendly interface.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Technologies Used
+- React
+- Bootstrap
+- TMDb API
+
+## License
+
+This project is proprietary and all rights are reserved. You may not copy, modify, distribute, or use this code in any manner without explicit permission from the owner.
+
+Unauthorized use of this project is prohibited.
+
